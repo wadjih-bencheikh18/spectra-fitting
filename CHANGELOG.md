@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.0.4](https://www.github.com/mljs/spectra-fitting/compare/v3.0.3...v3.0.4) (2021-12-23)
+
+
+### Bug Fixes
+
+* clone input peaks close [#67](https://www.github.com/mljs/spectra-fitting/issues/67) ([4ff1321](https://www.github.com/mljs/spectra-fitting/commit/4ff1321bbfe998aa072eddbbe8ece62d8003e400))
+
 ### [3.0.3](https://www.github.com/mljs/spectra-fitting/compare/v3.0.2...v3.0.3) (2021-12-01)
 
 
